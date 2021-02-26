@@ -2,6 +2,7 @@ package com.example.spring.webservices.rest.user;
 
 import java.util.Date;
 
+import javax.persistence.Entity;
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
 
